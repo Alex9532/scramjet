@@ -68,4 +68,5 @@
 		"parse-domain": "^8.2.2",
 		"set-cookie-parser": "^2.7.1"
 	}
+	 "packageManager": "pnpm@9.5.0"
 }
